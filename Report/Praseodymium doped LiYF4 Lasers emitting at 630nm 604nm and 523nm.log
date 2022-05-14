@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.10.17)  19 JAN 2022 23:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.10.17)  14 MAY 2022 22:03
 entering extended mode
-**"./Praseodymium doped LiYF4 Lasers emitting at 630nm, 604nm and 523nm.tex"
-("Praseodymium doped LiYF4 Lasers emitting at 630nm, 604nm and 523nm.tex"
+**"./Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.tex"
+("Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.tex"
 LaTeX2e <2019-10-01> patch level 3
 ("C:\Program Files\MiKTeX 2.9\tex/latex/ieeetran\IEEEtran.cls"
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
@@ -768,10 +768,9 @@ File: biblatex.cfg
 \@quotelevel=\count312
 \@quotereset=\count313
 
-No file "Praseodymium doped LiYF4 Lasers emitting at 630nm, 604nm and 523nm".au
-x.
-\openout1 = `"Praseodymium doped LiYF4 Lasers emitting at 630nm, 604nm and 523n
-m.aux"'.
+("Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.aux")
+\openout1 = `"Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm
+.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
@@ -788,6 +787,7 @@ LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 1.
+
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -839,9 +839,12 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 31.
 LaTeX Info: Redefining \pageref on input line 31.
 LaTeX Info: Redefining \nameref on input line 31.
+
+("Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.out")
+("Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.out")
 \@outlinefile=\write4
-\openout4 = `"Praseodymium doped LiYF4 Lasers emitting at 630nm, 604nm and 523n
-m.out"'.
+\openout4 = `"Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm
+.out"'.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -855,19 +858,19 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Input encoding 'utf8' specified.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
-\openout3 = `Praseodymium_doped_LiYF4_Lasers_emitting_at_630nm,_604nm_and_523nm
--blx.bib'.
+\openout3 = `Praseodymium_doped_LiYF4_Lasers_emitting_at_630nm_604nm_and_523nm-
+blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"Praseodymium doped LiYF4 Lasers emitting at 6
-30nm, 604nm and 523nm".bbl' not found.
+30nm 604nm and 523nm".bbl' found.
 
-No file "Praseodymium doped LiYF4 Lasers emitting at 630nm, 604nm and 523nm".bb
-l.
+("Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.bbl")
 Package biblatex Info: Reference section=0 on input line 31.
 Package biblatex Info: Reference segment=0 on input line 31.
 LaTeX Font Info:    Calculating math sizes for size <24> on input line 39.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
+
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -878,11 +881,34 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+<img/setup607640.png, id=30, 595.09828pt x 252.19218pt>
+File: img/setup607640.png Graphic file (type png)
+<use img/setup607640.png>
+Package pdftex.def Info: img/setup607640.png  used on input line 56.
+(pdftex.def)             Requested size: 206.39685pt x 87.46431pt.
+<img/setup523.png, id=34, 512.28891pt x 247.2989pt>
+File: img/setup523.png Graphic file (type png)
+<use img/setup523.png>
+Package pdftex.def Info: img/setup523.png  used on input line 65.
+(pdftex.def)             Requested size: 206.39685pt x 99.63475pt.
+ [1{C:/Users/nikla/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-LaTeX Warning: Citation 'Luo.2016' on page 1 undefined on input line 51.
 
+ <./img/setup607640.png> <./img/setup523.png>]
+LaTeX Font Info:    Trying to load font information for OML+ptm on input line 7
+5.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omlptm.fd"
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 75.
 
-LaTeX Warning: Empty bibliography on input line 59.
+Underfull \hbox (badness 4254) in paragraph at lines 78--78
+\OT1/ptm/m/n/10 op-er-a-tion of Pr\OML/cmm/m/it/10 <\OT1/ptm/m/n/10 sup\OML/cmm
+/m/it/10 >\OT1/ptm/m/n/10 3+\OML/cmm/m/it/10 <\OT1/ptm/m/n/10 /sup\OML/cmm/m/it
+/10 >\OT1/ptm/m/n/10 :LiYF\OML/cmm/m/it/10 <\OT1/ptm/m/n/10 inf\OML/cmm/m/it/10
+ >\OT1/ptm/m/n/10 4\OML/cmm/m/it/10 <\OT1/ptm/m/n/10 /inf\OML/cmm/m/it/10 >
+ []
 
 
 ** Conference Paper **
@@ -895,65 +921,47 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
-[1{C:/Users/nikla/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
+[2
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
-
-("Praseodymium doped LiYF4 Lasers emitting at 630nm, 604nm and 523nm.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
-
-
-Package rerunfilecheck Warning: File `"Praseodymium doped LiYF4 Lasers emitting
- at 630nm, 604nm and 523nm".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Praseodymium doped LiYF4 Lasers em
-itting at 630nm, 604nm and 523nm".out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  9E659024A1D3B7CC677406A880B0ABD5;187.
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                "Praseodymium doped LiYF4 Lasers emitting at 630nm, 6
-04nm and 523nm"
-(biblatex)                and rerun LaTeX afterwards.
-
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
+ ("Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
+Package rerunfilecheck Info: File `"Praseodymium doped LiYF4 Lasers emitting at
+ 630nm 604nm and 523nm".out' has not changed.
+(rerunfilecheck)             Checksum: 9E659024A1D3B7CC677406A880B0ABD5;187.
 Package logreq Info: Writing requests to '"Praseodymium doped LiYF4 Lasers emit
-ting at 630nm, 604nm and 523nm".run.xml'.
-\openout1 = `"Praseodymium doped LiYF4 Lasers emitting at 630nm, 604nm and 523n
-m.run.xml"'.
+ting at 630nm 604nm and 523nm".run.xml'.
+\openout1 = `"Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm
+.run.xml"'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 15140 strings out of 492450
- 256178 string characters out of 3129748
- 550845 words of memory out of 3000000
- 19317 multiletter control sequences out of 15000+200000
- 42416 words of font info for 100 fonts, out of 3000000 for 9000
+ 15245 strings out of 492450
+ 259118 string characters out of 3129748
+ 555599 words of memory out of 3000000
+ 19395 multiletter control sequences out of 15000+200000
+ 42445 words of font info for 100 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,39p,1450b,1265s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,8n,45p,1550b,1318s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "Praseodymium doped LiYF4 Lasers emitting at 630nm, 604nm and
- 523nm.pdf" (1 page, 97302 bytes).
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
+mri8a.pfb>
+Output written on "Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 
+523nm.pdf" (2 pages, 195775 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
