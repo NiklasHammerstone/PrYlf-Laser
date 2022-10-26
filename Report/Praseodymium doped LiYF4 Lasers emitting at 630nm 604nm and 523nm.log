@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.10.17)  14 MAY 2022 22:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.10.17)  26 OCT 2022 22:13
 entering extended mode
 **"./Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.tex"
 ("Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.tex"
@@ -881,29 +881,54 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<img/setup607640.png, id=30, 595.09828pt x 252.19218pt>
+<img/setup607640.png, id=34, 595.09828pt x 252.19218pt>
 File: img/setup607640.png Graphic file (type png)
 <use img/setup607640.png>
 Package pdftex.def Info: img/setup607640.png  used on input line 56.
 (pdftex.def)             Requested size: 206.39685pt x 87.46431pt.
-<img/setup523.png, id=34, 512.28891pt x 247.2989pt>
+<img/setup523.png, id=38, 512.28891pt x 247.2989pt>
 File: img/setup523.png Graphic file (type png)
 <use img/setup523.png>
 Package pdftex.def Info: img/setup523.png  used on input line 65.
 (pdftex.def)             Requested size: 206.39685pt x 99.63475pt.
- [1{C:/Users/nikla/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1{C:/Users/nikla/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
  <./img/setup607640.png> <./img/setup523.png>]
-LaTeX Font Info:    Trying to load font information for OML+ptm on input line 7
-5.
+<img/measurement640.png, id=69, 606.01407pt x 325.215pt>
+File: img/measurement640.png Graphic file (type png)
+<use img/measurement640.png>
+Package pdftex.def Info: img/measurement640.png  used on input line 75.
+(pdftex.def)             Requested size: 206.39685pt x 110.76021pt.
+<img/measurement604.png, id=70, 544.28343pt x 297.73735pt>
+File: img/measurement604.png Graphic file (type png)
+<use img/measurement604.png>
+Package pdftex.def Info: img/measurement604.png  used on input line 81.
+(pdftex.def)             Requested size: 206.39685pt x 112.90057pt.
+<img/measurement523.png, id=74, 511.9125pt x 254.82703pt>
+File: img/measurement523.png Graphic file (type png)
+<use img/measurement523.png>
+Package pdftex.def Info: img/measurement523.png  used on input line 89.
+(pdftex.def)             Requested size: 206.39685pt x 102.74165pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <./img/measurement640.png> <./img/measurement604.png> <./img/measurement523.
+png>]
+LaTeX Font Info:    Trying to load font information for OML+ptm on input line 1
+03.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omlptm.fd"
 File: omlptm.fd 
 )
 LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 75.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 103.
 
-Underfull \hbox (badness 4254) in paragraph at lines 78--78
+Underfull \hbox (badness 4254) in paragraph at lines 106--106
 \OT1/ptm/m/n/10 op-er-a-tion of Pr\OML/cmm/m/it/10 <\OT1/ptm/m/n/10 sup\OML/cmm
 /m/it/10 >\OT1/ptm/m/n/10 3+\OML/cmm/m/it/10 <\OT1/ptm/m/n/10 /sup\OML/cmm/m/it
 /10 >\OT1/ptm/m/n/10 :LiYF\OML/cmm/m/it/10 <\OT1/ptm/m/n/10 inf\OML/cmm/m/it/10
@@ -921,47 +946,48 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
-[2
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
+[3
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
  ("Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
 Package rerunfilecheck Info: File `"Praseodymium doped LiYF4 Lasers emitting at
  630nm 604nm and 523nm".out' has not changed.
-(rerunfilecheck)             Checksum: 9E659024A1D3B7CC677406A880B0ABD5;187.
+(rerunfilecheck)             Checksum: AE67F1C68E6C4355079343D83986DA73;253.
 Package logreq Info: Writing requests to '"Praseodymium doped LiYF4 Lasers emit
 ting at 630nm 604nm and 523nm".run.xml'.
 \openout1 = `"Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm
 .run.xml"'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 15245 strings out of 492450
- 259118 string characters out of 3129748
- 555599 words of memory out of 3000000
- 19395 multiletter control sequences out of 15000+200000
+ 15282 strings out of 492450
+ 259908 string characters out of 3129748
+ 556834 words of memory out of 3000000
+ 19423 multiletter control sequences out of 15000+200000
  42445 words of font info for 100 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,8n,45p,1550b,1318s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
-mri8a.pfb>
+ype1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb
+>
 Output written on "Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 
-523nm.pdf" (2 pages, 195775 bytes).
+523nm.pdf" (3 pages, 327999 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

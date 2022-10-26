@@ -38,7 +38,7 @@
 \maketitle
 
 \begin{abstract}
-In this report, a Praseodymium doped LiYF4 (Pr:YLF) laser consisting of a hemispheric cavity of 50 mm (640 nm) or 100 mm (604nm/523nm) and a 6mm long longitudinally pumped crystal (0.8 at\% doping) is reported. Depending on the mirror set used, the 640 nm ($^3P_0$ to $^3F_2$), 607 nm ($^3P_0$ to $^3H_6$) and 523 nm ($^3P_0$ to $^3H_5$) lines of the $Pr^{3+}$-Ion can be amplified. For the red line, an OC with 1.8\%T resulted in X.
+In this report, a Praseodymium doped LiYF4 (Pr:YLF) laser consisting of a hemispheric cavity of 50 mm (640 nm) or 100 mm (604nm/523nm) and a 6mm long longitudinally pumped crystal (0.8 at\% doping) is reported. Depending on the mirror set used, the 640 nm ($^3P_0$ to $^3F_2$), 607 nm ($^3P_0$ to $^3H_6$) and 523 nm ($^3P_0$ to $^3H_5$) lines of the $Pr^{3+}$-Ion can be amplified. Slope effiencies of 28.4\%, 5.6\% and 2.5\% respectively were reached with maximum output powers of 149 mW, 26 mW  and 4.3 mW.
 \end{abstract}
 
 \begin{IEEEkeywords}
@@ -66,9 +66,37 @@ Due to availability issues, a different setup for obtaining 523 nm laser output 
 	\caption{Setup for 523 nm laser output}
 	\label{setup523}
 \end{figure}
-In this case, the concave mirror was coated with a very high reflective coating ($\geq$ 99.9\% R) for 523 nm. The plane mirror was used as the output coupler, with a reflectivity of about 0.5\% for 523 nm. A beamsplitter with high transmission for the pumplight and high reflectivity for 523 nm was installed to guide the laser beam out of the setup. 
-\section{Results}
+In this case, the concave mirror was coated with a very high reflective coating ($\geq$ 99.9\% R) for 523 nm. The plane mirror was used as the output coupler, with a transmission of about 0.5\% for 523 nm. A beamsplitter with high transmission for the pumplight and high reflectivity for 523 nm was installed to guide the laser beam out of the setup. 
+\section{Results and Discussion}
+For measuring the output power of the lasers, each setup was optimized at a set pump power above threshold. Mirror distance and adjustment were fine-tuned for maximum output power. //
+The output power of each setup was measured using a photodiode power sensor (Thorlabs S121C with PM100D console). The data can be found in the figures \ref{result640}, \ref{result604} and \ref{result523}.
+ \begin{figure}[h]
+	\centering
+	\includegraphics[width=0.4\textwidth]{img/measurement640}
+	\caption{Output power at 640 nm over pump power}
+	\label{result640}
+\end{figure}
+ \begin{figure}[h]
+	\centering
+	\includegraphics[width=0.4\textwidth]{img/measurement604}
+	\caption{Output power at 604 nm over pump power}
+	\label{result604}
+\end{figure}
+For the 640 nm setup, a lasing threshold $P_{th}$ of about 130 mW was achieved. The slope efficiency $\eta_{sl}$ was measured to be 28.4\%. A maximum output power of $P_{max}$ = 149 mW was observed. For the 607 nm, $P_{th}$ was 200 mW, with $\eta_{sl}$ = 5.6\% and $P_{max}$ = 26 mW. Both the higher threshold and lower slope efficiency are to be expected since the emission cross section $\varsigma_{em}$ of Pr:YLF at 604 nm is lower than at 640 nm \cite{Richter.2007}. //
+The power measurements reveal a rather unusual effect: Both the 604 nm and 640 nm setups scale linearly with the pump powers until about 600 mW of pump power. Beyond 600 mW, the output power starts to saturate and even declines when the pump power is increased more. This effect is pronounced even more in the 523 nm setup (see fig. \ref{result523}). Here, the linear region is relatively small which is due to the higher lasing threshold of 520 mW. This leaves only 100 mW of linear scaling ($\eta_{sl}$=2,5\%) until the effect mentioned above sets in at around 650 mW. The much lower slope effiency and $P_{max}$=4,3 mW can again be contributed to lower values for $\varsigma_{em}$ at 523 nm  although the difference of $\eta_{sl}$ for 640 nm and 523 nm is much larger than in the literature\cite{Richter.2007}.
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.4\textwidth]{img/measurement523}
+	\caption{Output power at 523 nm over pump power}
+	\label{result523}
+\end{figure}
+It is likely that the power degradation effect is due to power dependencies of the mode structure of the pump diode, which would greatly affect the pump-mode overlap and thus output power. Thermal effects can be ruled out since the effect could be detected across all diode temperatures. Also, current dependent wavelength shifts are unlikely to cause this effect since the laser diode was selected to emit 444 nm at 1500 mA which means that the laser should reach maximum efficiency when approaching this current. Thermal lensing is a possible factor but can not be the main reason since the effect does not creep in slowly whilst the crystal heats up but appears at a very predictable pump power. //
+Due to the lower emission cross sections and thus amplification factors at 523 nm and 604 nm combined with relatively high resonator lengths, both setups were relatively sensitive to misalignments, with the 523 nm setup much more unstable than the 604 nm setup. The 640 nm was extraordinarly insensitive to misalignments, resonator lengths of 25 - 50 mm resulted in reliable laser output, with the power increasing when the resonator length approached the stability limit at L = 50 mm. The lower misalignment sensitivity is likely due to a smaller mode waist of the shorter resonator and thus higher power density in the pumped region of the crystal and therefore stronger amplification combined with a lower "leverage" \ of the short focal length output coupler. This leads to lower displacements of the mode waist inside the crystal for the same angular movement of the mirror (compared to a longer local length mirror).\\
+As mentioned above, the slope effiencies and maximum laser powers achieved in this work are lower than in the reported literature (e.g. \cite{Richter.2007}, \cite{Luo.2016}) which can be attributed to multiple factors. Most importantly, no pump beam shaping techniques besides collimation and focussing where deployed which almost definitely decreases the pump-mode overlap efficiency in the Pr:YLF crystal. Furthermore, the output coupling of the resonators was not optimized. The resonator setups were tuned to local maxima but it is possible that the absolute maximum possible output powers were not reached.
 \section{Conclusion}
+In this work, setups for amplifying the 523 nm, 604 nm and 640 nm lines of the Pr:YLF crystal were presented and characterized. Slope effiencies of 2.5\%, 5.6\% and 28.4\% respectively were reached with maximum output powers of 4.3 mW, 26 mW and 149 mW. Higher output powers were prevented by a degradation effect starting at around 600 mW of pump power which can likely be attributed to the pump diode. This effect is currently the subject of further examination. Nevertheless, successful lasing was shown for all three setups with the results being in qualitative agreement with the literature.
+\section{Acknowledgements}
+The author would like to thank the staff of the Institute of Applied Optics and Electronics at the University of Applied Sciences Cologne for providing the opportunity to make laser power measurements in their laboratories.
 %-------------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------------
 %\section*{References}

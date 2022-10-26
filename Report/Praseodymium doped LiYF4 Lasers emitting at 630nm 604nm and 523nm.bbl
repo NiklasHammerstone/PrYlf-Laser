@@ -428,6 +428,68 @@
     \field{year}{2006}
   \endentry
 
+  \entry{Richter.2007}{article}{}
+    \name{author}{5}{}{%
+      {{hash=RA}{%
+         family={Richter},
+         familyi={R\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HE}{%
+         family={Heumann},
+         familyi={H\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Huber},
+         familyi={H\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=OV}{%
+         family={Ostroumov},
+         familyi={O\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Seelert},
+         familyi={S\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RA+1}
+    \strng{fullhash}{RAHEHGOVSW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    We report on efficient lasing of Pr-doped fluoride materials with cw output
+  powers up to 600 mW in the visible spectral range. Praseodymium doped LiYF(4)
+  and LiLuF(4) crystals were pumped either by an intracavity frequency doubled
+  optically pumped semiconductor laser with output powers up to 1.6 W and
+  nearly diffraction limited beam quality or by a multimode GaN-laser diode
+  with an output power of about 370 mW. Furthermore, intracavity frequency
+  doubling of the red Pr-laser radiation to 320 nm reaching output powers of
+  more than 360 mW with a conversion efficiency of 61{\%} and an
+  optical-to-optical efficiency of 22{\%} are presented.%
+    }
+    \verb{doi}
+    \verb 10.1364/oe.15.005172
+    \endverb
+    \field{number}{8}
+    \field{pages}{5172\bibrangedash 5178}
+    \field{title}{{Power scaling of semiconductor laser pumped
+  Praseodymium-lasers}}
+    \field{volume}{15}
+    \field{journaltitle}{{Optics express}}
+    \field{year}{2007}
+  \endentry
+
   \entry{Xu.2013}{article}{}
     \name{author}{12}{}{%
       {{hash=XB}{%
