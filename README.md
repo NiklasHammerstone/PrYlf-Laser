@@ -1,5 +1,8 @@
 # PrYlf-Laser
 This repository contains the documentation for a homemade Pr:Ylf-Laser.
+## Update 27.10.2022 Green Ouput and report finished!
+I was able to use a dichroic mirror and a plane outcoupler to couple the green output out of the setup. The output powers are much lower than with orange or red, but it definitely works! The report, in which the setup and results are documented in a paper-like fashion, is also finished.
+![523nm Laseraction](./Documentation/prylf523dichro2.jpeg?raw=true)
 
 ## Update 19.01.2021 Orange Output!
 Using another mirror, the lasers now also lases at the orange line (604nm). The output power is similar to the 630nm line, but not quite as high. 
