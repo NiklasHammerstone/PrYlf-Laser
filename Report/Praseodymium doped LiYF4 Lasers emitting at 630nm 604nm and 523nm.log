@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.10.17)  26 OCT 2022 22:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.10.17)  27 OCT 2022 14:47
 entering extended mode
 **"./Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.tex"
 ("Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 523nm.tex"
@@ -971,7 +971,7 @@ Here is how much of TeX's memory you used:
  19423 multiletter control sequences out of 15000+200000
  42445 words of font info for 100 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,45p,1550b,1318s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,8n,45p,1553b,1318s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
@@ -985,7 +985,7 @@ fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb
 >
 Output written on "Praseodymium doped LiYF4 Lasers emitting at 630nm 604nm and 
-523nm.pdf" (3 pages, 327999 bytes).
+523nm.pdf" (3 pages, 327973 bytes).
 PDF statistics:
  152 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 500000)
